@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4988d609.css",
+    "main.js": "/static/js/main.0d09ecbb.js",
+    "static/js/340.d1ec883d.chunk.js": "/static/js/340.d1ec883d.chunk.js",
+    "static/js/787.0c3f432a.chunk.js": "/static/js/787.0c3f432a.chunk.js",
+    "static/media/24758680_tourist_va_03-ai.png": "/static/media/24758680_tourist_va_03-ai.bdc48deda958059c75da.png",
+    "index.html": "/index.html",
+    "main.4988d609.css.map": "/static/css/main.4988d609.css.map",
+    "main.0d09ecbb.js.map": "/static/js/main.0d09ecbb.js.map",
+    "340.d1ec883d.chunk.js.map": "/static/js/340.d1ec883d.chunk.js.map",
+    "787.0c3f432a.chunk.js.map": "/static/js/787.0c3f432a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4988d609.css",
+    "static/js/main.0d09ecbb.js"
+  ]
+}
